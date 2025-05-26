@@ -10,5 +10,3 @@ https://youtu.be/OSuj8l6Pat0
 Above is my youbtube video showing the code and the app running 
 ![image](https://github.com/user-attachments/assets/eff0718a-a867-427e-8b71-01724a08ce3d)
 Above is the background image I have used 
-"#decentralized-app" 
-"# A2" 
